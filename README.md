@@ -17,7 +17,7 @@ Then he will give me exercises to solve in order to improve my programming logic
 [My Portfolio](https://edgarant.github.io/)
 </div>
 
-style>
+<style>
   .centered {
     text-align: center;
   }
