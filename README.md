@@ -1,5 +1,4 @@
 
-<div class="centered">
 # Welcome
 
 Welcome, this is the area where I will spend most of my time studying my programming logic with the help of my teacher Chatgpt.
@@ -15,10 +14,3 @@ Then he will give me exercises to solve in order to improve my programming logic
 ---
 
 [My Portfolio](https://edgarant.github.io/)
-</div>
-
-<style>
-  .centered {
-    text-align: center;
-  }
-</style>
