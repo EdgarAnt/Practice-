@@ -7,6 +7,10 @@ The main goal of this is to do 100 exercises of every important topic in program
 followed by the theory of these.
 
 <img src="https://media.giphy.com/media/3og0INRvt0D3hERC1O/giphy.gif" width="35%" height="35%" quality="35%">
+[![Programming](https://media.giphy.com/media/3og0INRvt0D3hERC1O/giphy.gif)](https://media.giphy.com/media/3og0INRvt0D3hERC1O/giphy.gif) {
+    text-align: center;
+}
+
 
 Then he will give me exercises to solve in order to improve my programming logic.
 
