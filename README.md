@@ -1,4 +1,3 @@
-<div style="display: flex; justify-content: center;">
 
 # Welcome
 
@@ -16,4 +15,3 @@ Then he will give me exercises to solve in order to improve my programming logic
 
 [My Portfolio](https://edgarant.github.io/)
 
-</div>
