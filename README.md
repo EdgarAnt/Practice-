@@ -1,6 +1,6 @@
+<div align=center>
 
 # Welcome
-
 Welcome, this is the area where I will spend most of my time studying my programming logic with the help of my teacher Chatgpt.
 
 The main goal of this is to do 100 exercises of every important topic in programming, basically chatgpt will be my teacher, he will give me the most important topics of programming, topics like Data Structures, POO. the beginnings of this, Conditionals, loops or others .....
@@ -13,5 +13,6 @@ Then he will give me exercises to solve in order to improve my programming logic
 
 ---
 
-[My Portfolio](https://edgarant.github.io/)
+[My Portfolio ](https://edgarant.github.io/)
 
+</div>
